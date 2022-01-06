@@ -1,0 +1,8 @@
+/* When I press START, a timer begins to count down and the first questions appear with multiple choice 
+buttons, 
+IF correct answer is pressed then you move to the next question - timer not affected 
+IF incorrect answer is pressed then you lose time and Incorrect message displays 
+If timer runs out you lose the game and message display loss message 
+if you complete quiz before timer gets to 1 then you win and win message display 
+input area for initial and score, ability to clear input 
+*/
